@@ -1,8 +1,8 @@
-<h1 align="center"><b>😈𝗧𝗔𝗕𝗔𝗛𝗜𝗕𝗢𝗧😈</b></h1>
+<h1 align="center"><b>😈𝗦𝗛𝗜𝗩 𝗕𝗢𝗧😈</b></h1>
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/BATTERY_ABOUT_TO_DAI_ERROR"><img src="https://graph.org/file/dee44cef6db27983dd8ab.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/ll_SABKA_BHAI_KILLER_ll"><img src="https://telegra.ph/file/f627873ed3dc636243f81.jpg" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone for using THIS OP SEMX SPAM BOT, That is the greatest pleasure we have !
@@ -15,7 +15,7 @@
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Rajpomane/SEMXxBOTFATHER)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Killerboyxd/SHIVxBOTFATHER)
   
 </details>
 
